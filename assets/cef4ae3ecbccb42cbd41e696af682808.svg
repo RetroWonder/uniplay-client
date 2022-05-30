@@ -1,0 +1,29 @@
+<svg version="1.1" width="25.293155070658937" height="25.30645501267554" viewBox="-0.6373774391990981 -0.619077438620933 25.293155070658937 25.30645501267554" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#808080" stop-opacity="1"/>
+      <stop offset="1" stop-color="#AFAFAF" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,-48,-47.95" y2="24.05" x2="0" x1="0" y1="0.05" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#808080" stop-opacity="1"/>
+      <stop offset="1" stop-color="#AFAFAF" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.7051571835763752">
+    <g id="ID0.9502377584576607">
+      <g id="Pulldown Block">
+        <g id="ID0.1907326290383935">
+          <path id="ID0.35286514461040497" fill="url(#grad_1-,0,0,1,-48,-47.95)" d="M 0 0.05 L 24 0.05 L 24 24.05 L 0 24.05 L 0 0.05 Z " stroke-width="1"/>
+          <path id="ID0.2977775149047375" fill="rgb(128,128,128)" d="M 0 24.05 L 0 0.05 L 24 0.05 L 24 24.05 L 0 24.05 Z M 1.389 22.661 L 22.611 22.661 L 22.611 1.439 L 1.389 1.439 L 1.389 22.661 Z " stroke-width="1"/>
+        </g>
+        <g id="ID0.6994396862573922">
+          <path id="ID0.6168243265710771" fill="rgb(235,123,157)" d="M 0.0183 0.0183 L 24.0184 0.0183 L 24.0184 1.3992 L 0.0183 1.3992 L 0.0183 0.0183 Z " stroke-width="0.912904849740857"/>
+        </g>
+        <path id="ID0.7886199448257685" fill="rgb(235,123,157)" d="M 12 4.05 C 14.207 4.05 16.207 4.946 17.655 6.395 C 19.104 7.843 20 9.843 20 12.05 C 20 14.257 19.104 16.257 17.655 17.705 C 16.207 19.154 14.207 20.05 12 20.05 C 9.793 20.05 7.793 19.154 6.345 17.705 C 4.896 16.257 4 14.257 4 12.05 C 4 9.843 4.896 7.843 6.345 6.395 C 7.793 4.946 9.793 4.05 12 4.05 Z " stroke-width="1"/>
+        <g id="ID0.06038198200985789">
+          <path id="ID0.5843431213870645" fill="white" d="M 12 15 L 17 9 L 12 12 L 7 9 L 12 15 Z " stroke-width="1.2747548783981961"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

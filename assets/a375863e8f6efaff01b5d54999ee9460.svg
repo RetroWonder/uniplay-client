@@ -1,0 +1,11 @@
+<svg version="1.1" width="79.3499984741211" height="82.54940032958984" viewBox="1.3149700164794922 -1.0493983030319214 79.3499984741211 82.54940032958984" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.4376783035695553">
+    <g id="ID0.6186204026453197">
+      <g id="Current Song Display">
+        <path id="ID0.10875137383118272" fill="white" d="M 65 57 C 65 43.754 54.246 33 41 33 C 27.754 33 17 43.754 17 57 C 17 70.246 27.754 81 41 81 C 54.246 81 65 70.246 65 57 Z " stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+  <text id="ID0.48245482705533504" fill="#FFFFFF" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.457484, 0, 0, 0.457484, 1.81497, -0.922451)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Select Character</tspan></text>
+</svg>

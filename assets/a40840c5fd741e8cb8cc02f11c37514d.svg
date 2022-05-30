@@ -1,0 +1,28 @@
+<svg version="1.1" width="48.37700271606445" height="36.645999908447266" viewBox="-0.171999990940094 -0.1459999978542328 48.37700271606445 36.645999908447266" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#808080" stop-opacity="1"/>
+      <stop offset="1" stop-color="#b3b3b3" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-1.8369701465288538e-16,1,1,1.8369701465288538e-16,0,0" x1="0" y1="0" x2="0" y2="1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#808080" stop-opacity="1"/>
+      <stop offset="1" stop-color="#b3b3b3" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="Basic Block" fill="url(#grad_1-1.8369701465288538e-16,1,1,1.8369701465288538e-16,0,0)" d="M 12 12 L 12 36 L 36 36 L 36 12 L 12 12 Z " stroke-width="1"/>
+  <path id="ID0.5868475032038987" fill="#808080" d="M 36 36 L 12 36 L 12 12 L 36 12 L 36 36 Z M 13.389 13.389 L 13.389 34.611 L 34.611 34.611 L 34.611 13.389 L 13.389 13.389 Z " stroke-width="1"/>
+  <path id="ID0.4223877773620188" fill="#f00" d="M 24 0.354 L 26.122 14.313 L 21.878 14.313 L 24 0.354 Z " stroke-width="1"/>
+  <path id="ID0.17977242544293404" fill="#f00" d="M 47.705 24 L 33.745 26.122 L 33.745 21.878 L 47.705 24 Z " stroke-width="1"/>
+  <path id="ID0.8954716697335243" fill="#f00" d="M 0.328 24 L 14.293 21.878 L 14.293 26.122 L 0.328 24 Z " stroke-width="1"/>
+  <g id="Cannon">
+    <path id="ID0.4729808117263019" fill="#555" d="M 27.857 17.314 L 20.143 17.314 L 21.159 14.283 L 26.841 14.283 L 27.857 17.314 Z " stroke-width="1"/>
+    <path id="ID0.8567346855998039" fill="#39393e" d="M 20.143 17.314 L 27.857 17.314 L 24 30.686 L 20.143 17.314 Z " stroke-width="1"/>
+    <path id="ID0.7988140247762203" fill="#555" d="M 30.686 27.857 L 30.686 20.143 L 33.717 21.159 L 33.717 26.841 L 30.686 27.857 Z " stroke-width="1"/>
+    <path id="ID0.7052570795640349" fill="#39393e" d="M 30.686 20.143 L 30.686 27.857 L 17.474 24 L 30.686 20.143 Z " stroke-width="1"/>
+    <path id="ID0.657986578065902" fill="#555" d="M 20.143 30.686 L 27.857 30.686 L 26.841 33.717 L 21.159 33.717 L 20.143 30.686 Z " stroke-width="1"/>
+    <path id="ID0.13710103183984756" fill="#39393e" d="M 27.857 30.686 L 20.143 30.686 L 24 17.314 L 27.857 30.686 Z " stroke-width="1"/>
+    <path id="ID0.2686081980355084" fill="#555" d="M 17.314 20.143 L 17.314 27.857 L 14.283 26.841 L 14.283 21.159 L 17.314 20.143 Z " stroke-width="1"/>
+    <path id="ID0.29574837628751993" fill="#39393e" d="M 17.314 27.857 L 17.314 20.143 L 30.686 24 L 17.314 27.857 Z " stroke-width="1"/>
+    <path id="ID0.44896237924695015" fill="none" stroke="#f00" stroke-width="1" d="M 20.505 24 L 24 20.474 L 27.495 24 L 24 27.526 L 20.505 24 Z "/>
+  </g>
+</svg>

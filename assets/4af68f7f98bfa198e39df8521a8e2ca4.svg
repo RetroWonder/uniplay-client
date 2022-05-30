@@ -1,0 +1,26 @@
+<svg version="1.1" width="36.70500183105469" height="25" viewBox="-0.5 -0.5 36.70500183105469 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#808080" stop-opacity="1"/>
+      <stop offset="1" stop-color="#b3b3b3" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-1.8369701465288538e-16,1,1,1.8369701465288538e-16,-12,-12" x1="-12" y1="-12" x2="-12" y2="-11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#808080" stop-opacity="1"/>
+      <stop offset="1" stop-color="#b3b3b3" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="Basic Block" fill="url(#grad_1-1.8369701465288538e-16,1,1,1.8369701465288538e-16,-12,-12)" d="M 0 0 L 0 24 L 24 24 L 24 0 L 0 0 Z " stroke-width="1"/>
+  <path id="ID0.5868475032038987" fill="#808080" d="M 24 0 L 0 0 L 0 24 L 24 24 L 24 0 Z M 1.389 22.611 L 1.389 1.389 L 22.611 1.389 L 22.611 22.611 L 1.389 22.611 Z " stroke-width="1"/>
+  <path id="ID0.17977242544293404" fill="#f00" d="M 35.705 12 L 21.745 14.122 L 21.745 9.878 L 35.705 12 Z " stroke-width="1"/>
+  <g id="Cannon">
+    <path id="ID0.4729808117263019" fill="#555" d="M 15.857 5.314 L 8.143 5.314 L 9.159 2.283 L 14.841 2.283 L 15.857 5.314 Z " stroke-width="1"/>
+    <path id="ID0.8567346855998039" fill="#39393e" d="M 8.143 5.314 L 15.857 5.314 L 12 18.686 L 8.143 5.314 Z " stroke-width="1"/>
+    <path id="ID0.7988140247762203" fill="#555" d="M 18.686 15.857 L 18.686 8.143 L 21.717 9.159 L 21.717 14.841 L 18.686 15.857 Z " stroke-width="1"/>
+    <path id="ID0.7052570795640349" fill="#39393e" d="M 18.686 8.143 L 18.686 15.857 L 5.474 12 L 18.686 8.143 Z " stroke-width="1"/>
+    <path id="ID0.657986578065902" fill="#555" d="M 8.143 18.686 L 15.857 18.686 L 14.841 21.717 L 9.159 21.717 L 8.143 18.686 Z " stroke-width="1"/>
+    <path id="ID0.13710103183984756" fill="#39393e" d="M 15.857 18.686 L 8.143 18.686 L 12 5.314 L 15.857 18.686 Z " stroke-width="1"/>
+    <path id="ID0.2686081980355084" fill="#555" d="M 5.314 8.143 L 5.314 15.857 L 2.283 14.841 L 2.283 9.159 L 5.314 8.143 Z " stroke-width="1"/>
+    <path id="ID0.29574837628751993" fill="#39393e" d="M 5.314 15.857 L 5.314 8.143 L 18.686 12 L 5.314 15.857 Z " stroke-width="1"/>
+    <path id="ID0.44896237924695015" fill="none" stroke="#f00" stroke-width="1" d="M 8.505 12 L 12 8.474 L 15.495 12 L 12 15.526 L 8.505 12 Z "/>
+  </g>
+</svg>

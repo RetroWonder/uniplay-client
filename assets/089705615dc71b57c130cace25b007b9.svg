@@ -1,0 +1,15 @@
+<svg version="1.1" width="25" height="25" viewBox="-0.5 -0.5 25 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <radialGradient id="grad_1" cx="0.49579999999999996" cy="0.5" r="0.65546">
+      <stop offset="0" stop-color="#E3C9FF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#D0A3FF" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.29518139734864235">
+    <path id="Gravity Block" fill="url(#grad_1)" d="M 0 0 L 24 0 L 24 24 L 0 24 L 0 0 Z " stroke-width="1"/>
+    <path id="ID0.37092339899390936" fill="#E9CEFF" d="M 12 12 L 7.909 16.909 L 12 14.455 L 16.091 16.909 L 12 12 Z " stroke-width="1"/>
+    <path id="ID0.26474545197561383" fill="#E9CEFF" d="M 12 7.091 L 7.909 12 L 12 9.545 L 16.091 12 L 12 7.091 Z " stroke-width="1"/>
+    <path id="ID0.5714649567380548" fill="#c9f" d="M 24 24 L 0 24 L 0 0 L 24 0 L 24 24 Z M 1.389 1.389 L 1.389 22.611 L 22.611 22.611 L 22.611 1.389 L 1.389 1.389 Z " stroke-width="1"/>
+  </g>
+</svg>

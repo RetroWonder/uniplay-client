@@ -1,0 +1,29 @@
+<svg width="19.031726848894078" height="19.03173638563724" viewBox="-0.5175724088220381 -0.515987402108171 19.031726848894078 19.03173638563724" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.41421;">
+    <g>
+        <g>
+            <g id="Teleportal">
+                <g>
+                    <circle cx="324" cy="36" r="8" style="fill:rgb(54,67,116);" stroke-width="1" transform="matrix(1.12499679082,0,0,1.12499679082,-355.500661742,-31.50000424075997)"/>
+                </g>
+                <g>
+                    <circle cx="204" cy="36" r="8" style="fill:url(#_Radial1);stroke-width:1.55px;stroke:rgb(204,197,255);" stroke-width="1" transform="matrix(6.534408839559999e-16,0.898366,-0.898366,6.534408839559999e-16,41.340840000000014,-174.26665799999998)"/>
+                </g>
+                <g>
+                    <path d="M 12.9291 5.8556 C 13.4816 6.9056 14.7549 8.7464 14.9047 10.3657 C 15.0643 12.089 14.0938 13.5619 14.5573 13.5619 C 15.4562 13.5619 16.1856 9.4448 16.1856 8.6472 C 16.1856 7.3468 14.5573 7.3005 12.9291 5.8556 Z " style="fill:rgb(204,197,255);" stroke-width="1.0262282079586533"/>
+                </g>
+                <g>
+                    <path d="M 12.1379 12.9069 C 11.0858 13.4595 9.241 14.7328 7.6184 14.8826 C 5.8914 15.0422 4.4154 14.0717 4.4154 14.5352 C 4.4154 15.434 8.9582 16.1635 9.7565 16.1635 C 11.0597 16.1635 10.69 14.5352 12.1379 12.9069 Z " style="fill:rgb(204,197,255);" stroke-width="1.0271774434048635"/>
+                </g>
+                <g>
+                    <path d="M 5.8495 5.0931 C 6.9033 4.5368 8.7509 3.2548 10.3761 3.104 C 12.1058 2.9434 13.584 3.9204 13.584 3.4537 C 13.584 2.5488 9.0381 1.8144 8.2375 1.8144 C 6.9323 1.8144 7.2997 3.4537 5.8495 5.0931 Z " style="fill:rgb(204,197,255);" stroke-width="1.0317878840503263"/>
+                </g>
+                <g>
+                    <path d="M 5.0703 11.7292 C 4.5177 10.7358 3.2444 8.9942 3.0946 7.4621 C 2.935 5.8316 3.9055 4.4381 3.442 4.4381 C 2.5432 4.4381 1.8137 8.3963 1.8137 9.1509 C 1.8137 10.3813 3.442 10.3622 5.0703 11.7292 Z " style="fill:rgb(204,197,255);" stroke-width="1.0022462841064603"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(7.97182,-5.13329e-14,5.13329e-14,7.97182,204,36)"><stop offset="0%" style="stop-color:rgb(150,141,213);stop-opacity:1"/><stop offset="47%" style="stop-color:rgb(124,121,187);stop-opacity:1"/><stop offset="100%" style="stop-color:rgb(54,67,116);stop-opacity:1"/><stop offset="100%" style="stop-color:rgb(54,67,116);stop-opacity:1"/></radialGradient>
+    </defs>
+</svg>

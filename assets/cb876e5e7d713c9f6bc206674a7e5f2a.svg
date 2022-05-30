@@ -1,0 +1,20 @@
+<svg version="1.1" width="25" height="24" viewBox="-0.5 -0.44999999925494194 25 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#FF0000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#EA595B" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,-48,-48.95" y2="23.05" x2="0" x1="0" y1="0.05" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF0000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#EA595B" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.8567746607586741">
+    <g id="ID0.013983647339046001">
+      <g id="Spike">
+        <path id="ID0.04061386967077851" fill="url(#grad_1-,0,0,1,-48,-48.95)" d="M 24 23.05 L 11.332 0.05 L 0 23.05 L 24 23.05 Z " stroke-width="1"/>
+        <path id="ID0.5806507505476475" fill="rgb(255,0,0)" d="M 0 23.05 L 11.332 0.05 L 24 23.05 L 0 23.05 Z M 2.233 21.661 L 21.649 21.661 L 11.401 3.053 L 2.233 21.661 Z " stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

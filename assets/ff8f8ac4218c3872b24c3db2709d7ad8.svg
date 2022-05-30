@@ -1,0 +1,19 @@
+<svg width="25.751922607421875" height="25.751953125" viewBox="0.0999612808227539 -0.372314453125 25.751922607421875 25.751953125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g>
+        <g>
+            <g id="Exit Button">
+                <g>
+                    <circle cx="24" cy="336" r="12" style="fill:white;" stroke-width="1" transform="matrix(1.0313301599999998,0,0,1.0313301599999998,-11.77600000000001,-334.02324000000004)"/>
+                </g>
+                <g id="Cross">
+                    <g>
+                        <path d="M 9.0012 8.5301 L 16.9499 16.4788 " style="fill:rgb(159,211,255);stroke-width:1.71px;stroke:rgb(101,168,231);" stroke-width="0.8112738863716085"/>
+                    </g>
+                    <g>
+                        <path d="M 16.9507 8.53 L 9.0021 16.4787 " style="fill:rgb(159,211,255);stroke-width:1.71px;stroke:rgb(101,168,231);" stroke-width="0.8112738863716085"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

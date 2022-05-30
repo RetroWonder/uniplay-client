@@ -1,0 +1,20 @@
+<svg version="1.1" width="25" height="25" viewBox="-0.5 -0.44999999925494194 25 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#808080" stop-opacity="1"/>
+      <stop offset="1" stop-color="#AFAFAF" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,-48,-47.95" y2="24.05" x2="0" x1="0" y1="0.05" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#808080" stop-opacity="1"/>
+      <stop offset="1" stop-color="#AFAFAF" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.9907442666590214">
+    <g id="ID0.8542346027679741">
+      <g id="Slope Block">
+        <path id="ID0.7616018690168858" fill="url(#grad_1-,0,0,1,-48,-47.95)" d="M 24 24.05 L 0 0.05 L 0 24.05 L 24 24.05 Z " stroke-width="1"/>
+        <path id="ID0.5599715122953057" fill="rgb(128,128,128)" d="M 0 24.05 L 0 0.05 L 24 24.05 L 0 24.05 Z M 1.389 22.661 L 20.647 22.661 L 1.389 3.403 L 1.389 22.661 Z " stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

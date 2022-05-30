@@ -1,0 +1,27 @@
+<svg version="1.1" width="25" height="48.345001220703125" viewBox="-0.5 -0.1459999978542328 25 48.345001220703125" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#808080" stop-opacity="1"/>
+      <stop offset="1" stop-color="#b3b3b3" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-1.8369701465288538e-16,1,1,1.8369701465288538e-16,-12,0" x1="-12" y1="0" x2="-12" y2="1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#808080" stop-opacity="1"/>
+      <stop offset="1" stop-color="#b3b3b3" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="Basic Block" fill="url(#grad_1-1.8369701465288538e-16,1,1,1.8369701465288538e-16,-12,0)" d="M 0 12 L 0 36 L 24 36 L 24 12 L 0 12 Z " stroke-width="1"/>
+  <path id="ID0.5868475032038987" fill="#808080" d="M 24 36 L 0 36 L 0 12 L 24 12 L 24 36 Z M 1.389 13.389 L 1.389 34.611 L 22.611 34.611 L 22.611 13.389 L 1.389 13.389 Z " stroke-width="1"/>
+  <path id="ID0.4223877773620188" fill="#f00" d="M 12 0.354 L 14.122 14.313 L 9.878 14.313 L 12 0.354 Z " stroke-width="1"/>
+  <path id="ID0.1779211200773716" fill="#f00" d="M 12 47.699 L 9.878 33.733 L 14.122 33.733 L 12 47.699 Z " stroke-width="1"/>
+  <g id="Cannon">
+    <path id="ID0.4729808117263019" fill="#555" d="M 15.857 17.314 L 8.143 17.314 L 9.159 14.283 L 14.841 14.283 L 15.857 17.314 Z " stroke-width="1"/>
+    <path id="ID0.8567346855998039" fill="#39393e" d="M 8.143 17.314 L 15.857 17.314 L 12 30.686 L 8.143 17.314 Z " stroke-width="1"/>
+    <path id="ID0.7988140247762203" fill="#555" d="M 18.686 27.857 L 18.686 20.143 L 21.717 21.159 L 21.717 26.841 L 18.686 27.857 Z " stroke-width="1"/>
+    <path id="ID0.7052570795640349" fill="#39393e" d="M 18.686 20.143 L 18.686 27.857 L 5.474 24 L 18.686 20.143 Z " stroke-width="1"/>
+    <path id="ID0.657986578065902" fill="#555" d="M 8.143 30.686 L 15.857 30.686 L 14.841 33.717 L 9.159 33.717 L 8.143 30.686 Z " stroke-width="1"/>
+    <path id="ID0.13710103183984756" fill="#39393e" d="M 15.857 30.686 L 8.143 30.686 L 12 17.314 L 15.857 30.686 Z " stroke-width="1"/>
+    <path id="ID0.2686081980355084" fill="#555" d="M 5.314 20.143 L 5.314 27.857 L 2.283 26.841 L 2.283 21.159 L 5.314 20.143 Z " stroke-width="1"/>
+    <path id="ID0.29574837628751993" fill="#39393e" d="M 5.314 27.857 L 5.314 20.143 L 18.686 24 L 5.314 27.857 Z " stroke-width="1"/>
+    <path id="ID0.44896237924695015" fill="none" stroke="#f00" stroke-width="1" d="M 8.505 24 L 12 20.474 L 15.495 24 L 12 27.526 L 8.505 24 Z "/>
+  </g>
+</svg>

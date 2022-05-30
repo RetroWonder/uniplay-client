@@ -1,0 +1,34 @@
+<svg version="1.1" width="25.293155070658937" height="25.274754878398195" viewBox="-0.6373774391990981 -0.6373774391990981 25.293155070658937 25.274754878398195" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#808080" stop-opacity="1"/>
+      <stop offset="1" stop-color="#AFAFAF" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,-48,-48" y2="24" x2="0" x1="0" y1="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#808080" stop-opacity="1"/>
+      <stop offset="1" stop-color="#AFAFAF" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.6823685779236257">
+    <g id="ID0.7749368431977928">
+      <g id="Left Conveyer">
+        <g id="ID0.8744022380560637">
+          <path id="ID0.49189623119309545" fill="url(#grad_1-,0,0,1,-48,-48)" d="M 0 0 L 24 0 L 24 24 L 0 24 L 0 0 Z " stroke-width="1"/>
+          <path id="ID0.3221665592864156" fill="rgb(128,128,128)" d="M 0 24 L 0 0 L 24 0 L 24 24 L 0 24 Z M 1.389 22.611 L 22.611 22.611 L 22.611 1.389 L 1.389 1.389 L 1.389 22.611 Z " stroke-width="1"/>
+        </g>
+        <g id="ID0.0001935027539730072">
+          <path id="ID0.33493856247514486" fill="rgb(116,203,219)" d="M 0.0183 0.0183 L 24.0184 0.0183 L 24.0184 1.3992 L 0.0183 1.3992 L 0.0183 0.0183 Z " stroke-width="0.912904849740857"/>
+        </g>
+        <g id="ID0.8503036913461983">
+          <path id="ID0.9815960042178631" fill="rgb(116,203,219)" d="M 0.0183 22.6183 L 24.0184 22.6183 L 24.0184 23.9992 L 0.0183 23.9992 L 0.0183 22.6183 Z " stroke-width="0.912904849740857"/>
+        </g>
+        <g id="ID0.9312590197660029">
+          <path id="ID0.4972138316370547" fill="rgb(116,203,219)" d="M 20 12 C 20 14.207 19.104 16.207 17.655 17.655 C 16.207 19.104 14.207 20 12 20 C 9.793 20 7.793 19.104 6.345 17.655 C 4.896 16.207 4 14.207 4 12 C 4 9.793 4.896 7.793 6.345 6.345 C 7.793 4.896 9.793 4 12 4 C 14.207 4 16.207 4.896 17.655 6.345 C 19.104 7.793 20 9.793 20 12 Z " stroke-width="1"/>
+        </g>
+        <g id="ID0.6490926560945809">
+          <path id="ID0.8795727323740721" fill="white" d="M 9 12 L 15 17 L 12 12 L 15 7 L 9 12 Z " stroke-width="1.2747548783981961"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

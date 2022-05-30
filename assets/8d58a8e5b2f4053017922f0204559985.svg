@@ -1,0 +1,31 @@
+<svg version="1.1" width="25.293155070658937" height="25.30645501267554" viewBox="-0.6373774391990981 -0.619077438620933 25.293155070658937 25.30645501267554" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#808080" stop-opacity="1"/>
+      <stop offset="1" stop-color="#AFAFAF" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,-48,-47.95" y2="24.05" x2="0" x1="0" y1="0.05" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#808080" stop-opacity="1"/>
+      <stop offset="1" stop-color="#AFAFAF" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.906365567818284">
+    <g id="ID0.3296164539642632">
+      <g id="Jump Block">
+        <g id="ID0.2998417462222278">
+          <path id="ID0.7870172057300806" fill="url(#grad_1-,0,0,1,-48,-47.95)" d="M 0 0.05 L 24 0.05 L 24 24.05 L 0 24.05 L 0 0.05 Z " stroke-width="1"/>
+          <path id="ID0.0830681431107223" fill="rgb(128,128,128)" d="M 0 24.05 L 0 0.05 L 24 0.05 L 24 24.05 L 0 24.05 Z M 1.389 22.661 L 22.611 22.661 L 22.611 1.439 L 1.389 1.439 L 1.389 22.661 Z " stroke-width="1"/>
+        </g>
+        <g id="ID0.7417754209600389">
+          <path id="ID0.8408494689501822" fill="rgb(124,114,210)" d="M 0.0183 0.0183 L 24.0184 0.0183 L 24.0184 1.3992 L 0.0183 1.3992 L 0.0183 0.0183 Z " stroke-width="0.912904849740857"/>
+        </g>
+        <g id="ID0.7647249330766499">
+          <path id="ID0.5169125301763415" fill="rgb(124,114,210)" d="M 12 20 C 9.793 20 7.793 19.104 6.345 17.655 C 4.896 16.207 4 14.207 4 12 C 4 9.793 4.896 7.793 6.345 6.345 C 7.793 4.896 9.793 4 12 4 C 14.207 4 16.207 4.896 17.655 6.345 C 19.104 7.793 20 9.793 20 12 C 20 14.207 19.104 16.207 17.655 17.655 C 16.207 19.104 14.207 20 12 20 Z " stroke-width="1"/>
+        </g>
+        <g id="ID0.274887393694371">
+          <path id="ID0.8916033571586013" fill="white" d="M 12 9.05 L 7 15.05 L 12 12.05 L 17 15.05 L 12 9.05 Z " stroke-width="1.2747548783981961"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

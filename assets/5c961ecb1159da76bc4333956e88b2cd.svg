@@ -1,0 +1,20 @@
+<svg width="17.61291557339496" height="17.61291557339496" viewBox="-0.8064577866974811 -0.8064577866974811 17.61291557339496 17.61291557339496" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g>
+        <g>
+            <g id="Gravity Switch">
+                <g>
+                    <circle cx="204" cy="36" r="8" style="fill:rgb(171,0,255);" stroke-width="1" transform="matrix(1,-8.88178e-16,8.88178e-16,1,-196,-27.999999999999858)"/>
+                </g>
+                <g>
+                    <path d="M 15.0011 8.0003 C 15.0011 4.0547 11.8674 0.8539 8.0011 0.8539 C 4.1347 0.8539 1.0011 4.0547 1.0011 8.0003 L 15.0011 8.0003 Z " style="fill:white;" stroke-width="1.6129155733949623"/>
+                </g>
+                <g>
+                    <path d="M 8 2.7925 L 10.489 6.0617 L 5.511 6.0617 L 8 2.7925 Z " style="fill:rgb(171,0,255);" stroke-width="0.8459123414636412"/>
+                </g>
+                <g>
+                    <path d="M 8 13.2075 L 5.511 9.9383 L 10.489 9.9383 L 8 13.2075 Z " style="fill:white;" stroke-width="0.8459123414636412"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

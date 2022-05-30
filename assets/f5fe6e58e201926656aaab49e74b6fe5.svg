@@ -1,0 +1,14 @@
+<svg version="1.1" width="25.86917240260506" height="25.86917240260506" viewBox="0.0673636454420079 0.09236368120479477 25.86917240260506 25.86917240260506" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <image id="ID0.8165472932159901" width="2" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAADklEQVR42mNhgAIWGAMAAH4ACYwGaSAAAAAtdEVYdFNvZnR3YXJlAGJ5LmJsb29kZHkuY3J5cHRvLmltYWdlLlBORzI0RW5jb2RlcqgGf+4AAAAASUVORK5CYII=" transform="matrix(0.5,0,0,0.5,13,13)" stroke-width="1" style="image-rendering: optimizespeed; image-rendering: pixelated;"/>
+  <g id="ID0.5454901996999979">
+    <g id="Play Button">
+      <g id="ID0.8735288716852665">
+        <path id="ID0.684732913505286" fill="white" d="M 13.0019 0.651 C 16.4167 0.651 19.5106 2.0381 21.7507 4.2781 C 23.9907 6.5182 25.3779 9.6122 25.3779 13.0269 C 25.3779 16.4417 23.9907 19.5356 21.7507 21.7757 C 19.5106 24.0157 16.4167 25.4029 13.0019 25.4029 C 9.5872 25.4029 6.4932 24.0157 4.2531 21.7757 C 2.0131 19.5356 0.626 16.4417 0.626 13.0269 C 0.626 9.6122 2.0131 6.5182 4.2531 4.2781 C 6.4932 2.0381 9.5872 0.651 13.0019 0.651 Z " stroke-width="1.0313301086425781"/>
+      </g>
+      <g id="ID0.20698204217478633">
+        <path id="ID0.9322205418720841" fill="#65A8E7" d="M 18.2271 13.5188 L 9.9447 18.7548 L 9.9447 8.2828 L 18.2271 13.5188 Z " stroke-width="1.1172726833667777"/>
+      </g>
+    </g>
+  </g>
+</svg>
